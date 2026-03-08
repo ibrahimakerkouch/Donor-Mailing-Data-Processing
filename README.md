@@ -5,6 +5,6 @@
 **docs/** Documentation files.<br>
 **inputs/** Input files for ETL pipeline.<br>
 **scripts/** Supporting scripts and utilities.<br>
-**etl_pipeline_testing.py** Script for testing the full ETL pipeline.<br>
-**etl_pipeline_production.py** ETL pipeline script for production use.<br>
+**etl_pipeline_testing.py** Main script for testing and running the ETL pipeline.<br>
+**etl_pipeline_production.py** ETL pipeline script for production use, designed to process full datasets reliably.<br>
 **Donor_Mailing_Data_Processing.bat** Batch file which will be scheduled to run hourly, daily, weekly or monthly on Windows.<br>
